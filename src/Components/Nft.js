@@ -11,7 +11,7 @@ import img5 from './images/image-avatar.png';
  function Nft() {
      return (
 <div className="nft">
-  <div class="container">
+  <div class="contain">
       <div class="wrapper">
           <div class="img-top">
               <img src={img1} alt=""/>
